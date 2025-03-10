@@ -1,0 +1,8 @@
+# Global LLM configuration
+[llm]
+model = "deepseek-chat"
+base_url = "https://tbnx.plus7.plus/v1"
+api_key = "sk-XvWvy8rf8ewno0vVFmtgOMidGb5i3h1qNQmer7bE2buY6hlK"
+max_tokens = 4096
+temperature = 0.0
+

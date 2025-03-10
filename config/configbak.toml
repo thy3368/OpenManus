@@ -1,0 +1,18 @@
+# Global LLM configuration
+[llm]
+model = "claude-3-5-sonnet"
+base_url = "https://api.openai.com/v1"
+api_key = "sk-..."
+max_tokens = 4096
+temperature = 0.0
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "claude-3-5-sonnet"
+base_url = "https://api.openai.com/v1"
+api_key = "sk-..."
+
+
+            api_key="sk-XvWvy8rf8ewno0vVFmtgOMidGb5i3h1qNQmer7bE2buY6hlK",
+            base_url="https://tbnx.plus7.plus/v1"
+deepseek-chat
